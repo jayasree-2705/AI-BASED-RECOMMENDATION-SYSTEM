@@ -80,3 +80,5 @@ mvn exec:java
 ---
 
 ### OUTPUT
+
+<img width="1919" height="1016" alt="Image" src="https://github.com/user-attachments/assets/c2231251-6768-490b-acdb-a2c9e47c55c9" />
